@@ -1,0 +1,37 @@
+﻿.km-calendar:after,
+    .km-calendar:before
+    {
+        content: "\e089";
+    }
+.km-speakers:after,
+    .km-speakers:before
+    {
+        content: "\e319";
+    }
+.km-resources:after,
+    .km-resources:before
+    {
+        /*content: "\e08b";*/
+		content: "\e220";
+    }
+.km-home-alt:after,
+    .km-home-alt:before
+    {
+        content: "\e0af";
+    }
+.km-pencil:after,
+.km-pencil:before
+{
+	content: "\e07b";
+}
+.km-signin:after,
+.km-signin:before
+{
+	content: "\e077";
+}
+.allCenter
+{
+	display: -webkit-box;
+            -webkit-box-pack: center;
+            -webkit-box-align: center;
+}
